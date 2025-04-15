@@ -1,2 +1,0 @@
-# DemoSeleniumProject
-Demo
